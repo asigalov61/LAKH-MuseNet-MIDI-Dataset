@@ -1,6 +1,14 @@
 # LAKH MuseNet MIDI Dataset
 
+***
+
 ## Full LAKH MIDI dataset converted to MuseNet MIDI output format (9 instruments + drums)
+
+***
+
+## Make your own with the colab or download coverted output here:
+
+### https://1drv.ms/u/s!Ao9gnMkvUA2KgZBWDIQJIG-JS6RpPQ?e=ur8ggN
 
 ***
 
