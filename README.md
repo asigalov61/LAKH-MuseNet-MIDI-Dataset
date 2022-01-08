@@ -8,7 +8,20 @@
 
 ## Make your own with the colab or download coverted output here:
 
+[![Open In Colab][colab-badge]][colab-notebook]
+
+[colab-notebook]: <https://colab.research.google.com/github/asigalov61/LAKH-MuseNet-MIDI-Dataset/blob/main/LAKH_MuseNet_MIDI_Dataset_Maker.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
 ### https://1drv.ms/u/s!Ao9gnMkvUA2KgZBWDIQJIG-JS6RpPQ?e=ur8ggN
+
+***
+
+## wget install:
+
+```
+wget --no-check-certificate -O LAKH-MuseNet-MIDI-Dataset.zip "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118518&authkey=AHkhwwRc0yg2QYY"
+```
 
 ***
 
