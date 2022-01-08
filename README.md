@@ -4,13 +4,15 @@
 
 ## Full LAKH MIDI dataset converted to MuseNet MIDI output format (9 instruments + drums)
 
+### Bonus: Choir on Channel 10
+
 ***
 
 ## Please CC BY-NC-SA
 
 ***
 
-## Make your own with the colab or download coverted output here:
+## Make your own with the colab or download converted output here:
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
