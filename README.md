@@ -26,7 +26,7 @@
 ## wget install:
 
 ```
-!wget --no-check-certificate "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118520&authkey=AN-gn1ZxEnO4khE"
+!wget --no-check-certificate -O LAKH-MuseNet-MIDI-Dataset.zip "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118520&authkey=AN-gn1ZxEnO4khE"
 ```
 
 ***
